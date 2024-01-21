@@ -32,7 +32,7 @@ This project is my journey of learning GoLang. Each function in the code represe
 ## PLANNED WEB DEVELOPMENT LIST
 | Chapter                             | Description                                        | Learned |
 | ----------------------------------- | -------------------------------------------------- | ------- |
-| `hello web`                         | Setting up a basic web server in Go                | ✅       |
+| `hello web`                         | Setting up a basic web server in Go                | TBD       |
 | `routing`                           | Implementing routing in Go web applications        | TBD     |
 | `HTTP handlers`                     | Working with HTTP handlers and middleware          | TBD     |
 | `templates`                         | Using templates for dynamic HTML content           | TBD     |
