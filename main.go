@@ -187,6 +187,31 @@ func inputFromKeyboard(){
 	fmt.Print("Hello, "+ name)
 }
 
+func structExample(){
+	fmt.Println("Structs")
+	type Person struct {
+		name string
+		age int
+		location string
+	}
+	var person Person
+	person.name = "Arnab Biswas"
+	person.age = 25
+	person.location = "Kolkata"
+	fmt.Println(person)
+
+	// Diff between struct and variable
+	// Struct is a collection of variables
+	// Variable is a single variable
+
+}
+
+func interfaceExample(){
+	fmt.Println("Interfaces")
+
+
+}
+
 func main(){
 	helloWorld()
 	commandLineArgs()
@@ -204,7 +229,5 @@ func main(){
 	slices()
 	maps()
 	inputFromKeyboard()
-
-
-
+	structExample()
 }
