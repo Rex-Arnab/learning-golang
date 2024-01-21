@@ -21,7 +21,7 @@ This project is my journey of learning GoLang. Each function in the code represe
 | `input from keyboard`  | Taking input from the keyboard       | ✅       |
 | `functions`            | Defining and using functions         | ✅       |
 | `structs`              | Learning about structs               | ✅       |
-| `interfaces`           | Understanding interfaces             | ✅       |
+| `interfaces`           | Understanding interfaces             | TBD       |
 | `goroutines`           | Introduction to goroutines           | TBD     |
 | `channels`             | Working with channels                | TBD     |
 | `errorHandling`        | Learning about error handling        | TBD     |
